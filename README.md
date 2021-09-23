@@ -5,7 +5,7 @@ Classification of ECG heartbeats using images
 
 **Link to the paper:** https://arxiv.org/abs/1804.06812v1
 
-Traditional machine learning models are also included for comparison. 
+Non-deep learning models are also included for comparison. 
 
 See the **Architectural Decision Document** and the **Notebooks** for details.
 
